@@ -7,5 +7,5 @@ Designed using Java and Android Studio.
 ## Authors
 * **[Michael Chunko](https://github.com/MikeChunko)** - App design and implementation
 * **Robert Foerst** - App design and implementation
-* **Steven Foley** - Java code
+* **[Steven Foley](https://github.com/StevenF48?tab=repositories)** - Java code
 * **[Paul Gurman](https://github.com/Pgurman)** - Java code and app icon
